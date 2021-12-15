@@ -1,0 +1,105 @@
+/*  
+ Main source: https://www.w3schools.com/html/html_css.asp
+ Color source: https://www.w3schools.com/html/html_colors.asp
+ */
+
+
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+
+p{
+  font-family:"Raleway";
+  color:black
+}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  min-height: 100%;
+}
+.w3-bar .w3-button {
+  padding: 16px;
+}
+ /* Regan CSS for header padding */
+ 
+.w3-display-left .w3-text-white {
+ padding-top:48px;
+}
+ 
+ .w3-sidebar .w3-bar-block .w3-black .w3-card .w3-animate-left .w3-hide-medium .w3-hide-large {
+  display:none;
+ }
+  
+ /* Adding */
+ 
+ .w3-container {
+ padding-top:16px;
+ padding-right:16px;
+ }
+ 
+ .w3-container .w3-light-grey {
+ padding-top:16px; 
+ padding-right:16px;
+ }
+ 
+ .w3-container .w3-white { 
+  padding-top:16px; 
+  padding-right:16px;
+}
+ /* */
+ 
+ .w3-row-padding .w3-center {
+ margin-top:24px;
+ }
+ 
+ /* */ 
+  .w3-row-padding .w3-grayscale {
+ margin-top:24px;
+ }
+
+
+ .w3-grey {
+  padding-top:0px;
+  padding-right:16px;
+ }
+
+ .w3-container .w3-dark-grey .w3-center {
+  padding-top:0px;
+  padding-right:0px;
+ }
+
+#Carto_bar {
+  width:90%;
+}
+
+#Urb_Pl_bar {
+  width:88%;
+}
+
+#topo_bar {
+  width:70%;
+}
+
+#mySidebar {
+  display: none;
+}
+
+#logo_sec{
+  padding-top: 128px;
+}
+
+#topography, #cartography, #portfolio, #urban_planing {
+  padding-top: 128px;
+}
+.team_image{
+  width: 100%;
+}
